@@ -7,7 +7,7 @@
 
 - 👯 I’ve also collaborate at the ETS Montréal on [Programming and integrating AI into a drone and several rovers](https://github.com/sebastien-doyez2812/Internship_projects/tree/main/MEA4_internship)
 
-- 👨‍💻 All of my projects are available on my [Youtube Channel(https://www.youtube.com/@S%C3%A9bastienDoyez) and also on my website: [https://sebastien-doyez2812.github.io/my_website.github.io/](https://sebastien-doyez2812.github.io/my_website.github.io/)
+- 👨‍💻 All of my projects are available on my [Youtube Channel](https://www.youtube.com/@S%C3%A9bastienDoyez) and also on my website: [https://sebastien-doyez2812.github.io/my_website.github.io/](https://sebastien-doyez2812.github.io/my_website.github.io/)
 
 - 📫 How to reach me **doyez.sebastien34090@gmail.com**
 

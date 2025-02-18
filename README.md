@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, It's Sébastien Doyez</h1>
 <h3 align="center">I'm a passionnate AI, computer vision and robotics developer 🤖 (and a french graduate engineer)!</h3>
 
-- 🔭 You can see my most recent project [DIY robotics arms with AI](https://github.com/sebastien-doyez2812/AI-projects/tree/main/DIY_Robotic_arm_and_AI)
+- 🔭 You can see my most recent project and find my Youtube video about those in the ReadMes
 
 - 🤓 I am constantly learning in the fields of of **AI, computer vision and robotics!**
 
 - 👯 I’ve also collaborate at the ETS Montréal on [Programming and integrating AI into a drone and several rovers](https://github.com/sebastien-doyez2812/Internship_projects/tree/main/MEA4_internship)
 
-- 👨‍💻 All of my projects are available on my website: [https://sebastien-doyez2812.github.io/my_website.github.io/](https://sebastien-doyez2812.github.io/my_website.github.io/)
+- 👨‍💻 All of my projects are available on my [Youtube Channel(https://www.youtube.com/@S%C3%A9bastienDoyez) and also on my website: [https://sebastien-doyez2812.github.io/my_website.github.io/](https://sebastien-doyez2812.github.io/my_website.github.io/)
 
 - 📫 How to reach me **doyez.sebastien34090@gmail.com**
 

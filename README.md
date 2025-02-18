@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Sébastien Doyez</h1>
 <h3 align="center">I'm a passionnate AI, computer vision and robotics developer 🤖 (and a french graduate engineer)!</h3>
 
-- 🔭 You can see my most recent project and find my Youtube video about those in the ReadMes
+- 🔭 You can see my most recent projects and find my Youtube videos about those in the ReadMes associate
 
 - 🤓 I am constantly learning in the fields of of **AI, computer vision and robotics!**
 

@@ -44,13 +44,14 @@ I collaborated with **ÉTS Montréal**, working on:
 ---
 
 ## 🛠️ Languages & Tools
-**Programming:** Python, C, C++, C#, Rust  
-**AI & ML:** PyTorch, TensorFlow, OpenCV, YOLO, Scikit-Learn  
-**Robotics:** Arduino, embedded systems, Linux  
+**Programming:** Python, C, C++, C#, Flutter, Rust  
+**AI & ML:** TensorFlow, Pytorch, TensorFlow Lite, OpenCV  
+**Robotics:** Arduino, Raspberry pi, STM32, embedded systems, Linux  
 **Software & DevOps:** Git, Bash, MATLAB, MySQL / MSSQL, CircleCI  
-**Web:** HTML5, CSS3  
+**Web:** HTML5, CSS3, Javascript, React  
 
---
+---
+
 ![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastien-doyez2812&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-doyez2812&layout=compact&theme=dark)

@@ -52,8 +52,6 @@ I collaborated with **ÉTS Montréal**, working on:
 
 ---
 
-![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastien-doyez2812&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-doyez2812&layout=compact&theme=dark)
 
 ---

@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, It's Sébastien Doyez</h1>
-<h3 align="center">I'm a passionnate AI, computer vision and robotics developer 🤖 (and a french graduate engineer)!</h3>
+# 👋 Hi, I'm Sébastien — AI, Computer Vision & Robotics Engineer
 
-- 🔭 You can see my most recent projects and find my Youtube videos about those in the ReadMes associate
+I'm a passionate **AI, computer vision, and robotics developer** 🤖, and a French graduate engineer now working in Montréal.  
+I love building **real-world intelligent systems** — from ML pipelines and embedded perception to robotic automation.
 
-- 🤓 I am constantly learning in the fields of of **AI, computer vision and robotics!**
+---
 
-- 👯 I’ve also collaborate at the ETS Montréal on [Programming and integrating AI into a drone and several rovers](https://github.com/sebastien-doyez2812/Internship_projects/tree/main/MEA4_internship)
+## 🔭 What I work on
+- Cutting-edge **AI & machine learning projects**
+- **Computer vision** for robotics and automation  
+- **Embedded ML**, drone perception & rover navigation  
+- Full-stack **robotics software engineering**
 
-- 👨‍💻 All of my projects are available on my [Youtube Channel](https://www.youtube.com/@S%C3%A9bastienDoyez) and also on [my website](https://sebastien-doyez2812.github.io/my_website.github.io/)
+You can find my most recent projects in their respective README files, often with **YouTube demos** 🎥.
 
-- 📫 How to reach me **doyez.sebastien34090@gmail.com**
+---
 
-- 📄 Know about my experiences [https://sebastien-doyez2812.github.io/my_website.github.io/CV_Doyez_Sebastien.pdf](https://sebastien-doyez2812.github.io/my_website.github.io/CV_Doyez_Sebastien.pdf)
+## 🤓 Always learning
+I’m constantly expanding my knowledge in:
+- Deep learning & intelligent systems  
+- Vision-based robotics  
+- Software engineering and automation  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/s%C3%A9bastien-doyez-042604252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sébastien doyez" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 👯 Collaborations
+I collaborated with **ÉTS Montréal**, working on:
+- Programming and integrating **AI into drones**
+- Developing autonomy for **multiple mobile rovers**
+
+---
+
+## 🌐 Find my work
+- 📺 **YouTube** — [detailed demos of my projects](https://www.youtube.com/@S%C3%A9bastienDoyez)
+- 🌐 **Website** — [more projects and personal info](https://sebastien-doyez2812.github.io/my_website.github.io/)  
+- 📄 **CV**: [Click here to view](https://sebastien-doyez2812.github.io/my_website.github.io/CV_Doyez_Sebastien.pdf)
+
+---
+
+## 📫 Contact
+**Email:** doyez.sebastien34090@gmail.com  
+**LinkedIn:** [Sébastien Doyez](https://www.linkedin.com/in/s%C3%A9bastien-doyez-042604252/)
+
+---
+
+## 🛠️ Languages & Tools
+**Programming:** Python, C, C++, C#, Rust  
+**AI & ML:** PyTorch, TensorFlow, OpenCV, YOLO, Scikit-Learn  
+**Robotics:** Arduino, embedded systems, Linux  
+**Software & DevOps:** Git, Bash, MATLAB, MySQL / MSSQL, CircleCI  
+**Web:** HTML5, CSS3  
+
+--
+![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastien-doyez2812&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-doyez2812&layout=compact&theme=dark)
+
+---
+
+⭐ *Feel free to explore my repositories or reach out — I love connecting with other developers and creators!*
